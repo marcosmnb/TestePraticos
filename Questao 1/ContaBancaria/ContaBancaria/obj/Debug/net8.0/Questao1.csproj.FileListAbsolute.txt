@@ -1,0 +1,14 @@
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Questao1.AssemblyInfo.cs
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\bin\Debug\net8.0\Questao1.exe
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\bin\Debug\net8.0\Questao1.deps.json
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\bin\Debug\net8.0\Questao1.runtimeconfig.json
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\bin\Debug\net8.0\Questao1.dll
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\bin\Debug\net8.0\Questao1.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Questao1.dll
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\obj\Debug\net8.0\refint\Questao1.dll
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Questao1.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Questao1.genruntimeconfig.cache
+C:\Users\mmborba\Downloads\Testes\Questao 1\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ref\Questao1.dll

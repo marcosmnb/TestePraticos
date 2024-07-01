@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.data\\repository\\contacorrenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|solutionrelative:sistemabancario.data\\repository\\contacorrenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.data\\sistemabancariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|solutionrelative:sistemabancario.data\\sistemabancariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.service\\saldoservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|solutionrelative:sistemabancario.service\\saldoservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D75E35-9879-49F3-AEFA-89E4E60BE9A0}|Model\\SistemaBancario.Model.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\model\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D75E35-9879-49F3-AEFA-89E4E60BE9A0}|Model\\SistemaBancario.Model.csproj|solutionrelative:model\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.data\\repository\\idempotenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|solutionrelative:sistemabancario.data\\repository\\idempotenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D75E35-9879-49F3-AEFA-89E4E60BE9A0}|Model\\SistemaBancario.Model.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\model\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D75E35-9879-49F3-AEFA-89E4E60BE9A0}|Model\\SistemaBancario.Model.csproj|solutionrelative:model\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.data\\sistemabancario.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|solutionrelative:sistemabancario.data\\sistemabancario.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BDD1FC-2984-4CCF-B0C3-E11637451DFC}|SistemaBancario.Exceptions\\SistemaBancario.Exceptions.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BDD1FC-2984-4CCF-B0C3-E11637451DFC}|SistemaBancario.Exceptions\\SistemaBancario.Exceptions.csproj|solutionrelative:sistemabancario.exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B897084-C666-4F92-A864-7B084C1CCF3C}|SistemaBancario.Tests\\SistemaBancario.Tests.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.tests\\servicehandlerstests\\getsaldoservicehandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B897084-C666-4F92-A864-7B084C1CCF3C}|SistemaBancario.Tests\\SistemaBancario.Tests.csproj|solutionrelative:sistemabancario.tests\\servicehandlerstests\\getsaldoservicehandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B897084-C666-4F92-A864-7B084C1CCF3C}|SistemaBancario.Tests\\SistemaBancario.Tests.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.tests\\servicehandlerstests\\createmovimentohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B897084-C666-4F92-A864-7B084C1CCF3C}|SistemaBancario.Tests\\SistemaBancario.Tests.csproj|solutionrelative:sistemabancario.tests\\servicehandlerstests\\createmovimentohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.service\\requester\\saldorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|solutionrelative:sistemabancario.service\\requester\\saldorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.service\\requester\\createmovimentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|solutionrelative:sistemabancario.service\\requester\\createmovimentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D75E35-9879-49F3-AEFA-89E4E60BE9A0}|Model\\SistemaBancario.Model.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\model\\idempotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D75E35-9879-49F3-AEFA-89E4E60BE9A0}|Model\\SistemaBancario.Model.csproj|solutionrelative:model\\idempotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.service\\createmovimentoservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|solutionrelative:sistemabancario.service\\createmovimentoservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.service\\response\\saldoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|solutionrelative:sistemabancario.service\\response\\saldoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario\\sistemabancario.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\sistemabancario.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.data\\migrations\\20240630044301_myfirstmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|solutionrelative:sistemabancario.data\\migrations\\20240630044301_myfirstmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.data\\migrations\\20240630044301_myfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|solutionrelative:sistemabancario.data\\migrations\\20240630044301_myfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario\\sistemabancario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\sistemabancario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.data\\migrations\\sistemabancariocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CF21FB-49EF-4CF4-A39A-4B76D4106BD6}|SistemaBancario.Data\\SistemaBancario.Data.csproj|solutionrelative:sistemabancario.data\\migrations\\sistemabancariocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BFD3CA1-A4FC-4B4A-9917-67AE14DFF843}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|c:\\users\\mmborba\\downloads\\testes\\questao 5\\sistemabancario\\sistemabancario.service\\sistemabancario.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F7FD2EB-E353-4DEA-9E6D-BE57DA191FB2}|SistemaBancario.Service\\SistemaBancario.Service.csproj|solutionrelative:sistemabancario.service\\sistemabancario.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaCorrenteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\Repository\\ContaCorrenteRepository.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Data\\Repository\\ContaCorrenteRepository.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\Repository\\ContaCorrenteRepository.cs",
+              "RelativeToolTip": "SistemaBancario.Data\\Repository\\ContaCorrenteRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:33:04.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\Model\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Model\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\Model\\ContaCorrente.cs",
+              "RelativeToolTip": "Model\\ContaCorrente.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:47:02.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Exceptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Exceptions\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Exceptions\\BusinessException.cs",
+              "RelativeToolTip": "SistemaBancario.Exceptions\\BusinessException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T04:34:58.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\Program.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\Program.cs",
+              "RelativeToolTip": "SistemaBancario\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:17:16.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaBancario\\appsettings.json",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\appsettings.json",
+              "RelativeToolTip": "SistemaBancario\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T18:23:39.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SistemaBancario.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\SistemaBancario.Data.csproj",
+              "RelativeDocumentMoniker": "SistemaBancario.Data\\SistemaBancario.Data.csproj",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\SistemaBancario.Data.csproj",
+              "RelativeToolTip": "SistemaBancario.Data\\SistemaBancario.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T07:14:56.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movimento.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\Model\\Movimento.cs",
+              "RelativeDocumentMoniker": "Model\\Movimento.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\Model\\Movimento.cs",
+              "RelativeToolTip": "Model\\Movimento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:47:50.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaldoServiceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\SaldoServiceHandler.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Service\\SaldoServiceHandler.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\SaldoServiceHandler.cs",
+              "RelativeToolTip": "SistemaBancario.Service\\SaldoServiceHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:44:46.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaBancarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\SistemaBancarioContext.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Data\\SistemaBancarioContext.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\SistemaBancarioContext.cs",
+              "RelativeToolTip": "SistemaBancario.Data\\SistemaBancarioContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:16:17.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdempotenciaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\Repository\\IdempotenciaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Data\\Repository\\IdempotenciaRepository.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\Repository\\IdempotenciaRepository.cs",
+              "RelativeToolTip": "SistemaBancario.Data\\Repository\\IdempotenciaRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:33:19.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaldoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\Requester\\SaldoRequest.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Service\\Requester\\SaldoRequest.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\Requester\\SaldoRequest.cs",
+              "RelativeToolTip": "SistemaBancario.Service\\Requester\\SaldoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:28:51.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateMovimentoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\Requester\\CreateMovimentoRequest.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Service\\Requester\\CreateMovimentoRequest.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\Requester\\CreateMovimentoRequest.cs",
+              "RelativeToolTip": "SistemaBancario.Service\\Requester\\CreateMovimentoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:04:52.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Idempotencia.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\Model\\Idempotencia.cs",
+              "RelativeDocumentMoniker": "Model\\Idempotencia.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\Model\\Idempotencia.cs",
+              "RelativeToolTip": "Model\\Idempotencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:40:02.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetSaldoServiceHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Tests\\ServiceHandlersTests\\GetSaldoServiceHandlerTests.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Tests\\ServiceHandlersTests\\GetSaldoServiceHandlerTests.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Tests\\ServiceHandlersTests\\GetSaldoServiceHandlerTests.cs",
+              "RelativeToolTip": "SistemaBancario.Tests\\ServiceHandlersTests\\GetSaldoServiceHandlerTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:30:01.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateMovimentoHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Tests\\ServiceHandlersTests\\CreateMovimentoHandlerTests.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Tests\\ServiceHandlersTests\\CreateMovimentoHandlerTests.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Tests\\ServiceHandlersTests\\CreateMovimentoHandlerTests.cs",
+              "RelativeToolTip": "SistemaBancario.Tests\\ServiceHandlersTests\\CreateMovimentoHandlerTests.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:08:26.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateMovimentoServiceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\CreateMovimentoServiceHandler.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Service\\CreateMovimentoServiceHandler.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\CreateMovimentoServiceHandler.cs",
+              "RelativeToolTip": "SistemaBancario.Service\\CreateMovimentoServiceHandler.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAlwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T04:25:06.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SaldoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\Response\\SaldoResponse.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Service\\Response\\SaldoResponse.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\Response\\SaldoResponse.cs",
+              "RelativeToolTip": "SistemaBancario.Service\\Response\\SaldoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:41:06.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SistemaBancario.http",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\SistemaBancario.http",
+              "RelativeDocumentMoniker": "SistemaBancario\\SistemaBancario.http",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\SistemaBancario.http",
+              "RelativeToolTip": "SistemaBancario\\SistemaBancario.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-29T18:03:57.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContaCorrenteController.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\Controllers\\ContaCorrenteController.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\Controllers\\ContaCorrenteController.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\Controllers\\ContaCorrenteController.cs",
+              "RelativeToolTip": "SistemaBancario\\Controllers\\ContaCorrenteController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:57:48.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240630044301_MyFirstMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\Migrations\\20240630044301_MyFirstMigration.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Data\\Migrations\\20240630044301_MyFirstMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\Migrations\\20240630044301_MyFirstMigration.Designer.cs",
+              "RelativeToolTip": "SistemaBancario.Data\\Migrations\\20240630044301_MyFirstMigration.Designer.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAuwGMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:48:29.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240630044301_MyFirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\Migrations\\20240630044301_MyFirstMigration.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Data\\Migrations\\20240630044301_MyFirstMigration.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\Migrations\\20240630044301_MyFirstMigration.cs",
+              "RelativeToolTip": "SistemaBancario.Data\\Migrations\\20240630044301_MyFirstMigration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwCYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:43:10.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SistemaBancario.csproj",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\SistemaBancario.csproj",
+              "RelativeDocumentMoniker": "SistemaBancario\\SistemaBancario.csproj",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\SistemaBancario.csproj",
+              "RelativeToolTip": "SistemaBancario\\SistemaBancario.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T02:21:54.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SistemaBancarioContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\Migrations\\SistemaBancarioContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SistemaBancario.Data\\Migrations\\SistemaBancarioContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Data\\Migrations\\SistemaBancarioContextModelSnapshot.cs",
+              "RelativeToolTip": "SistemaBancario.Data\\Migrations\\SistemaBancarioContextModelSnapshot.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAgwIMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:44:00.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SistemaBancario\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SistemaBancario\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T20:05:38.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SistemaBancario.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\SistemaBancario.Service.csproj",
+              "RelativeDocumentMoniker": "SistemaBancario.Service\\SistemaBancario.Service.csproj",
+              "ToolTip": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 5\\SistemaBancario\\SistemaBancario.Service\\SistemaBancario.Service.csproj",
+              "RelativeToolTip": "SistemaBancario.Service\\SistemaBancario.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T20:05:54.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

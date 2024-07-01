@@ -1,0 +1,22 @@
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\bin\Debug\net8.0\SistemaBancario.Exceptions.deps.json
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\bin\Debug\net8.0\SistemaBancario.Exceptions.dll
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\bin\Debug\net8.0\SistemaBancario.Exceptions.pdb
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.AssemblyInfoInputs.cache
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.AssemblyInfo.cs
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.dll
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\refint\SistemaBancario.Exceptions.dll
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.pdb
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\ref\SistemaBancario.Exceptions.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\bin\Debug\net8.0\SistemaBancario.Exceptions.deps.json
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\bin\Debug\net8.0\SistemaBancario.Exceptions.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\bin\Debug\net8.0\SistemaBancario.Exceptions.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.AssemblyInfoInputs.cache
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.AssemblyInfo.cs
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\refint\SistemaBancario.Exceptions.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\SistemaBancario.Exceptions.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Exceptions\obj\Debug\net8.0\ref\SistemaBancario.Exceptions.dll

@@ -1,0 +1,38 @@
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Service.deps.json
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Service.dll
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Service.pdb
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Data.dll
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Exceptions.dll
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Model.dll
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Data.pdb
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Exceptions.pdb
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Model.pdb
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.csproj.AssemblyReference.cache
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.AssemblyInfoInputs.cache
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.AssemblyInfo.cs
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.csproj.CoreCompileInputs.cache
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaB.8E39AF65.Up2Date
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.dll
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\refint\SistemaBancario.Service.dll
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.pdb
+C:\Users\mmborba\source\repos\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\ref\SistemaBancario.Service.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Service.deps.json
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Service.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Service.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Data.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Exceptions.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Model.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Data.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Exceptions.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\bin\Debug\net8.0\SistemaBancario.Model.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.csproj.AssemblyReference.cache
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.AssemblyInfoInputs.cache
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.AssemblyInfo.cs
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.csproj.CoreCompileInputs.cache
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaB.8E39AF65.Up2Date
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\refint\SistemaBancario.Service.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\SistemaBancario.Service.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\SistemaBancario.Service\obj\Debug\net8.0\ref\SistemaBancario.Service.dll

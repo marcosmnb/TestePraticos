@@ -1,0 +1,17 @@
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\bin\Debug\net8.0\TabelaDeGols.exe
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\bin\Debug\net8.0\TabelaDeGols.deps.json
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\bin\Debug\net8.0\TabelaDeGols.runtimeconfig.json
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\bin\Debug\net8.0\TabelaDeGols.dll
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\bin\Debug\net8.0\TabelaDeGols.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\TabelaDeGols.csproj.AssemblyReference.cache
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\TabelaDeGols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\TabelaDeGols.AssemblyInfoInputs.cache
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\TabelaDeGols.AssemblyInfo.cs
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\TabelaDeGols.csproj.CoreCompileInputs.cache
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\TabelaDe.46EF8702.Up2Date
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\TabelaDeGols.dll
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\refint\TabelaDeGols.dll
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\TabelaDeGols.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\TabelaDeGols.genruntimeconfig.cache
+C:\Users\mmborba\Downloads\Testes\Questao 2\TabelaDeGols\TabelaDeGols\obj\Debug\net8.0\ref\TabelaDeGols.dll

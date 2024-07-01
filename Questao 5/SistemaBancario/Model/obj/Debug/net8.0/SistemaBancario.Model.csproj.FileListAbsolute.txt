@@ -1,0 +1,22 @@
+C:\Users\mmborba\source\repos\SistemaBancario\Model\bin\Debug\net8.0\SistemaBancario.Model.deps.json
+C:\Users\mmborba\source\repos\SistemaBancario\Model\bin\Debug\net8.0\SistemaBancario.Model.dll
+C:\Users\mmborba\source\repos\SistemaBancario\Model\bin\Debug\net8.0\SistemaBancario.Model.pdb
+C:\Users\mmborba\source\repos\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmborba\source\repos\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.AssemblyInfoInputs.cache
+C:\Users\mmborba\source\repos\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.AssemblyInfo.cs
+C:\Users\mmborba\source\repos\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.csproj.CoreCompileInputs.cache
+C:\Users\mmborba\source\repos\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.dll
+C:\Users\mmborba\source\repos\SistemaBancario\Model\obj\Debug\net8.0\refint\SistemaBancario.Model.dll
+C:\Users\mmborba\source\repos\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.pdb
+C:\Users\mmborba\source\repos\SistemaBancario\Model\obj\Debug\net8.0\ref\SistemaBancario.Model.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\bin\Debug\net8.0\SistemaBancario.Model.deps.json
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\bin\Debug\net8.0\SistemaBancario.Model.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\bin\Debug\net8.0\SistemaBancario.Model.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.AssemblyInfoInputs.cache
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.AssemblyInfo.cs
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.csproj.CoreCompileInputs.cache
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\obj\Debug\net8.0\refint\SistemaBancario.Model.dll
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\obj\Debug\net8.0\SistemaBancario.Model.pdb
+C:\Users\mmborba\Downloads\Testes\Questao 5\SistemaBancario\Model\obj\Debug\net8.0\ref\SistemaBancario.Model.dll

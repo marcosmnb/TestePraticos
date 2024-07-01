@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JwTkur2jNIw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mmborba\\Downloads\\Testes\\Questao 2\\TabelaDeGols\\TabelaDeGols\\TabelaDeGols.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmborba\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
